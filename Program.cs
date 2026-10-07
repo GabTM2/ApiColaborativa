@@ -34,4 +34,11 @@ record WeatherForecast(DateOnly Date, int TemperatureC, string? Summary)
 {
     public int TemperatureF => 32 + (int)(TemperatureC / 0.5556);
 }
+<<<<<<< HEAD
 //barambambam
+=======
+
+
+//Maxwel no hizo ni vrg pongale 0 
+
+>>>>>>> ca11adaf42db029f5b40ad3f437b306485cf9a97
